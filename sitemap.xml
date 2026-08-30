@@ -2,35 +2,35 @@
 <urlset xmlns="http://sitemaps.org">
    <!-- Homepage -->
    <url>
-      <loc>https://linkpc.net</loc>
+      <loc>https://prismframes.linkpc.net</loc>
       <lastmod>2026-08-30</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
    <!-- Gallery Page -->
    <url>
-      <loc>https://linkpc.netgallery.html</loc>
+      <loc>https://prismframes.linkpc.net/gallery.html</loc>
       <lastmod>2026-08-30</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <!-- Process Page -->
    <url>
-      <loc>https://linkpc.netprocess.html</loc>
+      <loc>https://prismframes.linkpc.net/process.html</loc>
       <lastmod>2026-08-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
    <!-- Materials Page -->
    <url>
-      <loc>https://linkpc.netmaterials.html</loc>
+      <loc>https://prismframes.linkpc.net/materials.html</loc>
       <lastmod>2026-08-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
    <!-- About Us Page -->
    <url>
-      <loc>https://linkpc.netabout.html</loc>
+      <loc>https://prismframes.linkpc.net/aboutus.html</loc>
       <lastmod>2026-08-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
